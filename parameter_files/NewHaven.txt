@@ -1,0 +1,7 @@
+/Herwig/UnderlyingEvent/MPIHandler:Power 0.241
+/Herwig/UnderlyingEvent/MPIHandler:Offset 820
+/Herwig/UnderlyingEvent/MPIHandler:pTmin0 3.463
+/Herwig/UnderlyingEvent/MPIHandler:InvRadius 0.750
+/Herwig/Hadronization/ColourReconnector:ReconnectionProbability 0.358
+/Herwig/Partons/RemnantDecayer:ladderNorm 2.992
+/Herwig/Partons/RemnantDecayer:ladderPower 0.297
