@@ -1,10 +1,11 @@
-/Herwig/UnderlyingEvent/MPIHandler:Power 0.359
-/Herwig/UnderlyingEvent/MPIHandler:Offset 821
-/Herwig/UnderlyingEvent/MPIHandler:pTmin0 3.087
-/Herwig/UnderlyingEvent/MPIHandler:InvRadius 1.547
-/Herwig/Hadronization/ColourReconnector:ReconnectionProbability 0.712
+/Herwig/UnderlyingEvent/MPIHandler:Power 0.36
+/Herwig/UnderlyingEvent/MPIHandler:Offset 820
+/Herwig/UnderlyingEvent/MPIHandler:pTmin0 2.99
+/Herwig/UnderlyingEvent/MPIHandler:InvRadius 1.53
+/Herwig/Hadronization/ColourReconnector:ReconnectionProbability 0.720
+/Herwig/UnderlyingEvent/MPIHandler:DiffractiveRatio 0.299
 
 # Soft particle production model using multiperipheral kinematics 
 # (J. Bellm, S. Gieseke, P. Kirchgaeßer, Eur. Phys. J. C 80 (2020) 469)
-/Herwig/Partons/RemnantDecayer:ladderMult 0.407
+/Herwig/Partons/RemnantDecayer:ladderMult 0.3966
 /Herwig/Partons/RemnantDecayer:ladderbFactor 0
