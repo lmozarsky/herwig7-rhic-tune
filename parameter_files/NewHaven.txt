@@ -1,7 +1,7 @@
 /Herwig/UnderlyingEvent/MPIHandler:Power 0.225
 /Herwig/UnderlyingEvent/MPIHandler:Offset 551
-/Herwig/UnderlyingEvent/MPIHandler:pTmin0 3.01
-/Herwig/UnderlyingEvent/MPIHandler:InvRadius 1.112
+/Herwig/UnderlyingEvent/MPIHandler:pTmin0 3.005
+/Herwig/UnderlyingEvent/MPIHandler:InvRadius 1.11
 /Herwig/Hadronization/ColourReconnector:ReconnectionProbability 0.522
 /Herwig/UnderlyingEvent/MPIHandler:DiffractiveRatio 0.262
 
